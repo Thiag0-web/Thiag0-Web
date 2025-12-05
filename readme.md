@@ -5,20 +5,31 @@
 <div>
   <img align="right" src="/.github/workflows/assets/codar.gif" alt="Hora de codar!" style="height: 200px;">
   <div>
-    <p>🖥️ Desenvolvedor Front-end - React.tsx | JavaScript | TypeScript | Tailwind | Shadcn</p>
+    <p>🖥️ Desenvolvedor Web - React.tsx | JavaScript | TypeScript | Shadcn | Tailwind |</p>
     <p>📌 Sou um grande amante da tecnologia e estou sempre buscando me desenvolver profissionalmente </p>
   </div>
     <br>
 </div>
 
+#
 
+## ⭐ GitHub Stats
+
+[![My languages](https://github-stats-Thiag0-web.vercel.app/api/languages.js?username=Thiag0-web)](https://github.com/Thiag0-web/github-stats) 
+[![My Stats](https://github-stats-Thiag0-web.vercel.app/api/stats.js?username=Thiag0-web&peng=false)](https://github.com/Thiag0-web/github-stats)
+
+  
 
 <a href="https://github.com/Thiag0-web/github-stats">
   <img 
-    src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=Thiag0-web" 
+    src="https://github-stats-Thiag0-web.vercel.app/api/languages.js?username=Thiag0-web" 
     width="400"
   />
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=emerson-elias&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro)](https://git.io/streak-stats)
 
 
 
@@ -36,6 +47,10 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
       </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
@@ -105,4 +120,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph.svg">
 </picture>
-
