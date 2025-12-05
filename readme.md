@@ -13,23 +13,7 @@
 
 #
 
-## ⭐ GitHub Stats
 
-[![My languages](https://github-stats-Thiag0-web.vercel.app/api/languages.js?username=Thiag0-web)](https://github.com/Thiag0-web/github-stats) 
-[![My Stats](https://github-stats-Thiag0-web.vercel.app/api/stats.js?username=Thiag0-web&peng=false)](https://github.com/Thiag0-web/github-stats)
-
-  
-
-<a href="https://github.com/Thiag0-web/github-stats">
-  <img 
-    src="https://github-stats-Thiag0-web.vercel.app/api/languages.js?username=Thiag0-web" 
-    width="400"
-  />
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=emerson-elias&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro)](https://git.io/streak-stats)
 
 
 
@@ -46,12 +30,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
@@ -77,12 +55,6 @@
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>jQuery
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
         </a>
@@ -101,22 +73,7 @@
 
 ## 🚀 Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,vue,js,ts,java,figma,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,tailwind,vite)](https://skillicons.dev)
 
 <br>
 
-##  💬 Dúvidas? Entre em Contato ⬇️
-
-<div>
-    <br>
-  <a href="https://www.instagram.com/emersoneliass_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:emersonees808@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emerson-elias-9b2894228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph.svg">
-</picture>
