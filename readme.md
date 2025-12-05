@@ -13,9 +13,9 @@
 
 
 
-<a href="https://github.com/evirunurm/github-stats">
+<a href="https://github.com/Thiag0-web/github-stats">
   <img 
-    src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm" 
+    src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=Thiag0-web" 
     width="400"
   />
 </a>
