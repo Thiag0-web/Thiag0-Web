@@ -6,7 +6,7 @@
   <img align="right" src="/.github/Portifolio/src/assets/img/codar.gif" alt="Hora de codar!" style="height: 200px;">
   <div>
     <p>🖥️ Desenvolvedor Web - React.tsx | JavaScript | TypeScript | Shadcn | Tailwind |</p>
-    <p>📌 Sou um grande amante da tecnologia e estou sempre buscando me desenvolver profissionalmente </p>
+    <p>📌 Front-end developer buscando estágio focado em React, Tailwind e JavaScript. Projetos com deploy e código limpo. </p>
   </div>
     <br>
 </div>
